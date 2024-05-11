@@ -42,6 +42,7 @@
         android:layout_alignParentBottom="true"
         android:layout_alignParentEnd="true"
         android:padding="5dp"
-        android:layout_margin="20dp"/>
+        android:layout_margin="20dp"
+        app:icon="@drawable/ic_add"/>
 
 </RelativeLayout>
