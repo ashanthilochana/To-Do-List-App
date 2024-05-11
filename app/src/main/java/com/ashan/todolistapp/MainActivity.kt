@@ -24,7 +24,7 @@ class MainActivity : AppCompatActivity() {
             binding.taskName.text = String.format("Task Name: %s", it)
         }
 
-        taskViewModel.name.observe(this){
+        taskViewModel.desc.observe(this){
             binding.taskDesc.text = String.format("Task Desc: %s", it)
         }
     }
