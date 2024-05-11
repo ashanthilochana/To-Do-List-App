@@ -5,7 +5,6 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.lifecycle.ViewModelProvider
-import com.ashan.todolistapp.databinding.ActivityMainBinding
 import com.ashan.todolistapp.databinding.FragmentNewTaskSheetBinding
 import com.google.android.material.bottomsheet.BottomSheetDialogFragment
 
@@ -25,7 +24,7 @@ class NewTaskSheet : BottomSheetDialogFragment() {
         }
     }
 
-    override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View? {
+    override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View {
         binding = FragmentNewTaskSheetBinding.inflate(inflater, container, false)
 
         return binding.root
