@@ -1,4 +1,3 @@
-```markdown
 # To Do List App
 
 This is a simple To Do List application built using Kotlin in Android Studio. The app allows users to add, edit, and delete tasks from a to-do list.
@@ -68,4 +67,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - Hat tip to anyone whose code was used
 - Inspiration
 - etc
-```
