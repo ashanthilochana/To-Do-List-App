@@ -54,7 +54,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Your Name** - *Initial work* - [YourUsername](https://github.com/ashanthilochana)
+* **Your Name** - *Initial work* - [Ashan Thilochana](https://github.com/ashanthilochana)
 
 See also the list of [contributors](https://github.com/ashanthilochana/To-Do-List-App/contributors) who participated in this project.
 
